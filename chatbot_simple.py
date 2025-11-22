@@ -5,6 +5,7 @@ import re
 app = Flask(__name__)
 
 # Base de conocimiento mejorada para el módulo propedéutico
+# Se necesita aumentar
 KNOWLEDGE_BASE = {
     "modulo_propedeutico": {
         "presentacion": "El módulo propedéutico es tu preparación inicial de 4 semanas antes de comenzar la prepa en línea. Te ayuda a desarrollar habilidades para el éxito académico.",
